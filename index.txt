@@ -1,3 +1,5 @@
 Some feature is developed by the PE team.
 
 This new feature is implemented on the customer.
+
+A new feature is developed by the PE team.
