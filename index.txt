@@ -3,3 +3,5 @@ Some feature is developed by the PE team.
 This new feature is implemented on the customer.
 
 Bug fix done for the customer.
+
+A new feature is developed by the PE team.
